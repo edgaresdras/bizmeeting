@@ -2,6 +2,7 @@ import React, {
      Component
 } from "react";
 import Header from "./components/Header";
+import Formulario from './components/Formulario'
 
 class App extends Component {
 
@@ -30,12 +31,15 @@ class App extends Component {
      }
 
      render() {
-          return ( <
-               div className = "App" >
-               <
-               Header / >
-               <
-               /div>
+          return ( 
+               <div className = "App" >
+                    <Header/>
+                    <div className="uk-container">
+                    <Formulario
+                         categorias={this.state.categorias}
+                    />
+                    </div>
+               </div>
           );
      }
 }

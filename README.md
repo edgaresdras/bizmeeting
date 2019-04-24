@@ -67,3 +67,24 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # bizmeeting
+
+Nombre de aplicación 	Claves 	Acciones
+BizMeeting
+	
+UC7DVA7YGCGXN7J5YY
+Mostrar CS de cliente y token OAuth
+	
+Detalles clave
+Lista de directorios
+Extensión de aplicación
+
+CS de cliente
+R3C57CHE4B3YIBWMOKGKXNN4RWMZGQDFFCHHBNQMJUYISJRTXL
+
+Tu token personal de OAuth
+VHMJZNJYR4UKS4TMXYO2
+
+Token de OAuth de acceso anónonimo
+TSAFR3JKCDBRNTZWJRKE 
+
+https://www.eventbriteapi.com/v3/
